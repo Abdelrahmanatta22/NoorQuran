@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "18.12",
+  "versionCode": 45,
+  "versionName": "18.15",
   "apkUrl": "https://github.com/Abdelrahmanatta22/NoorQuran/releases/latest/download/NoorQuran.apk",
-  "notes": "تغيير اسم ملف التطبيق إلى NoorQuran.apk بدون كلمة Java.\nنقل «البحث عن تحديثات» إلى قسم «معلومات عن التطبيق».\nتحسينات في أذكار وأدعية المسلم."
+  "notes": "تضمين بيانات التجويد داخل التطبيق — تعمل بدون إنترنت من أول مرة.\nنقل «مصطلحات التجويد» إلى قسم الأدوات.\nإزالة زر «مفتاح الألوان» من نافذة الآية.\nإضافة بند «مصادر البيانات» في معلومات عن التطبيق."
 }
